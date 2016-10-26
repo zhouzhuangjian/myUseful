@@ -31,3 +31,8 @@ http://blog.csdn.net/yaya_soft/article/details/44307847  --仿微信支付宝�
 
 #自定义相机
 http://blog.csdn.net/qq_17250009/article/details/52795530
+
+#自定义view
+http://www.jianshu.com/p/138b98095778  --教你搞定Android自定义ViewGroup
+https://www.zhihu.com/question/41101031  --知乎大神
+
