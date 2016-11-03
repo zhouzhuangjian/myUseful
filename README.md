@@ -22,6 +22,7 @@ http://blog.csdn.net/qq_16131393/article/details/51000378  --图片选择器  2
 
 # 上拉下拉刷新
 https://github.com/bingoogolapple/BGARefreshLayout-Android
+http://www.imooc.com/article/2112  --仿美团
 
 # 弹幕效果
 http://blog.csdn.net/sinyu890807/article/details/51933728  --bilibili弹幕效果
@@ -35,4 +36,5 @@ http://blog.csdn.net/qq_17250009/article/details/52795530
 #自定义view
 http://www.jianshu.com/p/138b98095778  --教你搞定Android自定义ViewGroup
 https://www.zhihu.com/question/41101031  --知乎大神
+
 
