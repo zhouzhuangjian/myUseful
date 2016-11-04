@@ -27,14 +27,17 @@ http://www.imooc.com/article/2112  --仿美团
 # 弹幕效果
 http://blog.csdn.net/sinyu890807/article/details/51933728  --bilibili弹幕效果
 
-#密码输入界面
+# 密码输入界面
 http://blog.csdn.net/yaya_soft/article/details/44307847  --仿微信支付宝输入密码界面
 
-#自定义相机
+# 自定义相机
 http://blog.csdn.net/qq_17250009/article/details/52795530
 
-#自定义view
+# 自定义view
 http://www.jianshu.com/p/138b98095778  --教你搞定Android自定义ViewGroup
 https://www.zhihu.com/question/41101031  --知乎大神
+
+# 数据库
+http://www.jianshu.com/p/28912c2f31db   --Realm 数据库
 
 
