@@ -41,4 +41,7 @@ https://www.zhihu.com/question/41101031  --知乎大神
 # 数据库
 http://www.jianshu.com/p/28912c2f31db   --Realm 数据库
 
+# 保存图片到相册
+https://segmentfault.com/q/1010000004384074
+
 
