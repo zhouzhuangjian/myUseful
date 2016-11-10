@@ -44,4 +44,10 @@ http://www.jianshu.com/p/28912c2f31db   --Realm 数据库
 # 保存图片到相册
 https://segmentfault.com/q/1010000004384074
 
+# 当关闭通知消息权限后无法显示系统Toast的解决方案
+http://blog.csdn.net/qq_25867141/article/details/52807705
+
+# DownloadManager使用详解
+http://blog.csdn.net/qq_19431333/article/details/52798105
+
 
