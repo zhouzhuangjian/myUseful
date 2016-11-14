@@ -5,6 +5,7 @@
 http://www.58maisui.com/2016/10/20/776/  --软引用与弱引用优化内存使用
 http://blog.csdn.net/lmj623565791/article/details/45556391  --过度绘制问题
 http://blog.csdn.net/qq_17766199/article/details/52863741  --布局优化
+http://www.cnblogs.com/lwbqqyumidi/p/4047108.html  --viewstud 详解
 
 # android滑动相关
 http://blog.csdn.net/pi9nc/article/details/39583377  --ViewDragHelper详解 2
