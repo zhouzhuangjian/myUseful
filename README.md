@@ -54,4 +54,8 @@ http://blog.csdn.net/qq_25867141/article/details/52807705
 # DownloadManager使用详解
 http://blog.csdn.net/qq_19431333/article/details/52798105
 
+# 传感器
+http://blog.csdn.net/smartbetter/article/details/53161452
+
+
 
