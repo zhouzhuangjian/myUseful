@@ -58,7 +58,9 @@ http://blog.csdn.net/qq_19431333/article/details/52798105
 
 # 传感器
 http://blog.csdn.net/smartbetter/article/details/53161452
-![](http://www.baidu.com/img/bdlogo.gif)  
+
+# markdown中文语法说明
+http://wowubuntu.com/markdown/basic.html
 
 
 
