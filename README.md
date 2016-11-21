@@ -58,6 +58,7 @@ http://blog.csdn.net/qq_19431333/article/details/52798105
 
 # 传感器
 http://blog.csdn.net/smartbetter/article/details/53161452
+![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
 
 
 
