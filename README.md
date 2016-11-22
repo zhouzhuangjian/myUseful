@@ -62,5 +62,11 @@ http://blog.csdn.net/smartbetter/article/details/53161452
 # markdown中文语法说明
 http://wowubuntu.com/markdown/basic.html
 
+# 震动反馈（无需权限）
+http://blog.csdn.net/harryweasley/article/details/52806516
+
+# bitmap压缩方式
+http://blog.csdn.net/harryweasley/article/details/51955467
+
 
 
