@@ -71,6 +71,7 @@ http://blog.csdn.net/harryweasley/article/details/51955467
 # Android RenderScript 实现 LowPoly 效果
 http://www.jianshu.com/p/e85919252159
 
-
+# https
+http://www.jianshu.com/p/9a6c204616d2
 
 
