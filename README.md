@@ -70,7 +70,7 @@ http://blog.csdn.net/harryweasley/article/details/51955467
 
 # Android RenderScript 实现 LowPoly 效果
 http://www.jianshu.com/p/e85919252159
-!(http://upload-images.jianshu.io/upload_images/2919829-475c099686dd066a.gif?imageMogr2/auto-orient/strip)
+![lowpoly](http://upload-images.jianshu.io/upload_images/2919829-475c099686dd066a.gif?imageMogr2/auto-orient/strip)
 
 
 
