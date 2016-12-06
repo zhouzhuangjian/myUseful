@@ -9,8 +9,8 @@ http://www.cnblogs.com/lwbqqyumidi/p/4047108.html  --viewstud 详解
 
 # android滑动相关
 http://blog.csdn.net/pi9nc/article/details/39583377  --ViewDragHelper详解 2
-http://blog.csdn.net/tyk0910/article/details/53414299  --滑动冲突好文
-
+http://blog.csdn.net/tyk0910/article/details/53414299  --容易懂
+http://www.jianshu.com/p/e99b5e8bd67b   --图文解释
 # 分类相关
 http://blog.csdn.net/qq_16131393/article/details/50903486  --仿京东分类  2
 
