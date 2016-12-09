@@ -46,6 +46,7 @@ http://download.csdn.net/detail/jdsjlzx/9310321#comment  --京东首页
 http://blog.csdn.net/kong_gu_you_lan/article/details/52904064  --芝麻信用分
 http://www.jianshu.com/p/4b087dee6f5f  --折线图
 
+https://github.com/githubwing/ZoomHeader  --仿饿了么  下拉详情  上拉关闭
 # 数据库
 http://www.jianshu.com/p/28912c2f31db   --Realm 数据库
 
