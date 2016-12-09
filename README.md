@@ -29,6 +29,7 @@ https://github.com/bingoogolapple/BGARefreshLayout-Android
 http://www.imooc.com/article/2112  --仿美团
 http://blog.csdn.net/nugongahou110/article/details/50000911  --仿京东
 http://blog.csdn.net/yanghuinipurean/article/details/52840426  --万能刷新加载控件
+http://blog.csdn.net/wingichoy/article/details/50662592  --qq下拉抢红包
 # 弹幕效果
 http://blog.csdn.net/sinyu890807/article/details/51933728  --bilibili弹幕效果
 
