@@ -1,6 +1,7 @@
 # myUseful
 这里放了常用的学习网址
-
+#比较炫酷有用的
+https://gold.xitu.io/user/56de210b816dfa0052e66495
 # Android性能优化之巧用
 http://www.58maisui.com/2016/10/20/776/  --软引用与弱引用优化内存使用
 http://blog.csdn.net/lmj623565791/article/details/45556391  --过度绘制问题
