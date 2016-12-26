@@ -1,6 +1,7 @@
 # myUseful
 这里放了常用的学习网址
 #比较炫酷有用的
+
 https://gold.xitu.io/user/56de210b816dfa0052e66495
 # Android性能优化之巧用
 http://www.58maisui.com/2016/10/20/776/  --软引用与弱引用优化内存使用
@@ -80,4 +81,5 @@ http://www.jianshu.com/p/e85919252159
 # https
 http://www.jianshu.com/p/9a6c204616d2
 
-
+#引导页面
+http://blog.csdn.net/lowprofile_coding/article/details/48037095
