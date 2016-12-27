@@ -1,8 +1,8 @@
 # myUseful
 这里放了常用的学习网址
 #比较炫酷有用的
-
 https://gold.xitu.io/user/56de210b816dfa0052e66495
+http://www.phpxs.com/post/5067/   --android通用框架大全
 # Android性能优化之巧用
 http://www.58maisui.com/2016/10/20/776/  --软引用与弱引用优化内存使用
 http://blog.csdn.net/lmj623565791/article/details/45556391  --过度绘制问题
@@ -10,6 +10,7 @@ http://blog.csdn.net/qq_17766199/article/details/52863741  --布局优化
 http://www.cnblogs.com/lwbqqyumidi/p/4047108.html  --viewstud 详解
 http://www.jianshu.com/p/5343f38c0723?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq --据说让崩溃小于千分之三
 http://www.jianshu.com/p/f004300c6920  --SpannableStringBuilder  更灵活的设置字符颜色和图标
+http://blog.csdn.net/Y1258429182/article/details/51176424   --工具能监测是否内存泄漏
 
 # android滑动相关
 http://blog.csdn.net/pi9nc/article/details/39583377  --ViewDragHelper详解 2
@@ -34,6 +35,7 @@ http://blog.csdn.net/nugongahou110/article/details/50000911  --仿京东
 http://blog.csdn.net/yanghuinipurean/article/details/52840426  --万能刷新加载控件
 http://blog.csdn.net/wingichoy/article/details/50662592  --qq下拉抢红包
 https://github.com/android-cjj/Android-MaterialRefreshLayout  --小太阳  转圈这种的
+http://blog.csdn.net/lyhhj/article/details/51120539   --百度外卖下拉刷新
 # 弹幕效果
 http://blog.csdn.net/sinyu890807/article/details/51933728  --bilibili弹幕效果
 
@@ -51,7 +53,7 @@ http://www.jb51.net/article/91858.htm  --淘宝查看详情
 http://download.csdn.net/detail/jdsjlzx/9310321#comment  --京东首页
 http://blog.csdn.net/kong_gu_you_lan/article/details/52904064  --芝麻信用分
 http://www.jianshu.com/p/4b087dee6f5f  --折线图
-
+http://blog.csdn.net/u012551350/article/details/51205026  --饼饼图
 https://github.com/githubwing/ZoomHeader  --仿饿了么  下拉详情  上拉关闭
 # 数据库
 http://www.jianshu.com/p/28912c2f31db   --Realm 数据库
@@ -88,3 +90,12 @@ http://blog.csdn.net/lowprofile_coding/article/details/48037095
 
 #android自带好用的
 http://blog.csdn.net/qq_20785431/article/details/52461911  --bottomsheet
+http://blog.csdn.net/qq_16131393/article/details/51069325  --android3姐妹
+
+# android ui相关
+http://blog.csdn.net/liaoinstan/article/details/51200618   --可拖拽的gridview
+http://blog.csdn.net/tw19911005/article/details/51495199  --绘图机制
+# 视频播放
+http://blog.csdn.net/anddlecn/article/details/51523240
+# webview
+http://blog.csdn.net/t12x3456/article/details/13769731/
