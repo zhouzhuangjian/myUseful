@@ -82,5 +82,8 @@ http://www.jianshu.com/p/e85919252159
 # https
 http://www.jianshu.com/p/9a6c204616d2
 
-#引导页面
+# 引导页面
 http://blog.csdn.net/lowprofile_coding/article/details/48037095
+
+#android自带好用的
+http://blog.csdn.net/qq_20785431/article/details/52461911  --bottomsheet
