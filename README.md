@@ -43,6 +43,7 @@ http://blog.csdn.net/yaya_soft/article/details/44307847  --仿微信支付宝�
 http://blog.csdn.net/qq_17250009/article/details/52795530
 
 # 自定义view
+http://download.csdn.net/detail/tyk0910/9703524#comment  --别人写的自定义view
 http://www.jianshu.com/p/138b98095778  --教你搞定Android自定义ViewGroup
 https://www.zhihu.com/question/41101031  --知乎大神
 http://www.jb51.net/article/91858.htm  --淘宝查看详情
