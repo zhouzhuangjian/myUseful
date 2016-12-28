@@ -3,7 +3,9 @@
 #比较炫酷有用的
 https://gold.xitu.io/user/56de210b816dfa0052e66495
 http://www.phpxs.com/post/5067/   --android通用框架大全
+http://www.jianshu.com/p/153d9f31288d  --3D翻转
 # Android性能优化之巧用
+http://www.jianshu.com/p/e99b5e8bd67b  --事件分发机制
 http://www.58maisui.com/2016/10/20/776/  --软引用与弱引用优化内存使用
 http://blog.csdn.net/lmj623565791/article/details/45556391  --过度绘制问题
 http://blog.csdn.net/qq_17766199/article/details/52863741  --布局优化
@@ -11,7 +13,9 @@ http://www.cnblogs.com/lwbqqyumidi/p/4047108.html  --viewstud 详解
 http://www.jianshu.com/p/5343f38c0723?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=qq --据说让崩溃小于千分之三
 http://www.jianshu.com/p/f004300c6920  --SpannableStringBuilder  更灵活的设置字符颜色和图标
 http://blog.csdn.net/Y1258429182/article/details/51176424   --工具能监测是否内存泄漏
-
+http://www.maiziedu.com/article/9126/  --五种优化代码的方法
+http://www.jianshu.com/p/224e2479da18   --点击通知栏跳转页面，若挂了则重新走流程
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1123/2047.html  --weak handler 解决handler泄漏问题
 # android滑动相关
 http://blog.csdn.net/pi9nc/article/details/39583377  --ViewDragHelper详解 2
 http://blog.csdn.net/tyk0910/article/details/53414299  --容易懂
@@ -27,6 +31,8 @@ http://wear.techbrood.com/   --5
 
 # 拍照相册相关
 http://blog.csdn.net/qq_16131393/article/details/51000378  --图片选择器  2
+http://blog.csdn.net/qq_26787115/article/details/50583482  --拍照返回大图
+http://blog.csdn.net/qq_17250009/article/details/52795530  --自定义相机
 
 # 上拉下拉刷新
 https://github.com/bingoogolapple/BGARefreshLayout-Android
@@ -42,8 +48,6 @@ http://blog.csdn.net/sinyu890807/article/details/51933728  --bilibili弹幕效�
 # 密码输入界面
 http://blog.csdn.net/yaya_soft/article/details/44307847  --仿微信支付宝输入密码界面
 
-# 自定义相机
-http://blog.csdn.net/qq_17250009/article/details/52795530
 
 # 自定义view
 http://download.csdn.net/detail/tyk0910/9703524#comment  --别人写的自定义view
@@ -55,6 +59,8 @@ http://blog.csdn.net/kong_gu_you_lan/article/details/52904064  --芝麻信用分
 http://www.jianshu.com/p/4b087dee6f5f  --折线图
 http://blog.csdn.net/u012551350/article/details/51205026  --饼饼图
 https://github.com/githubwing/ZoomHeader  --仿饿了么  下拉详情  上拉关闭
+http://www.jianshu.com/p/f3022211821c  --导航器
+http://www.gcssloop.com/customview/taiji  --20行画太极
 # 数据库
 http://www.jianshu.com/p/28912c2f31db   --Realm 数据库
 
@@ -99,3 +105,13 @@ http://blog.csdn.net/tw19911005/article/details/51495199  --绘图机制
 http://blog.csdn.net/anddlecn/article/details/51523240
 # webview
 http://blog.csdn.net/t12x3456/article/details/13769731/
+# 博客主
+http://www.jianshu.com/users/769d3d3a9d4b/latest_articles
+http://blog.csdn.net/u011443509
+# 好的demo和例子网址
+http://www.jcodecraeer.com/plus/list.php?tid=31&TotalResult=1046&PageNo=1  
+# rxjava
+http://gank.io/post/560e15be2dca930e00da1083
+http://blog.csdn.net/theone10211024/article/details/50435325
+http://blog.csdn.net/qq_18402085/article/details/50793631
+http://www.jianshu.com/p/cc064e3d5f21   --封装retrofit
