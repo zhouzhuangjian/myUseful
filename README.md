@@ -105,6 +105,7 @@ http://blog.csdn.net/liaoinstan/article/details/51200618   --可拖拽的gridvi
 http://blog.csdn.net/tw19911005/article/details/51495199  --绘图机制
 # 视频播放
 http://blog.csdn.net/anddlecn/article/details/51523240
+http://blog.csdn.net/true100/article/details/53992939  --播放H264视频文件
 # webview
 http://blog.csdn.net/t12x3456/article/details/13769731/
 # 博客主
