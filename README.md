@@ -4,6 +4,7 @@
 https://gold.xitu.io/user/56de210b816dfa0052e66495
 http://www.phpxs.com/post/5067/   --android通用框架大全
 http://www.jianshu.com/p/153d9f31288d  --3D翻转
+
 # Android性能优化之巧用
 http://www.jianshu.com/p/e99b5e8bd67b  --事件分发机制
 http://www.58maisui.com/2016/10/20/776/  --软引用与弱引用优化内存使用
@@ -61,6 +62,7 @@ http://blog.csdn.net/u012551350/article/details/51205026  --饼饼图
 https://github.com/githubwing/ZoomHeader  --仿饿了么  下拉详情  上拉关闭
 http://www.jianshu.com/p/f3022211821c  --导航器
 http://www.gcssloop.com/customview/taiji  --20行画太极
+http://blog.csdn.net/recordgrowth/article/details/53342976  --仿ios靠边停的tool
 # 数据库
 http://www.jianshu.com/p/28912c2f31db   --Realm 数据库
 
