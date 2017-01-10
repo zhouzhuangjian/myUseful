@@ -17,6 +17,7 @@ http://blog.csdn.net/Y1258429182/article/details/51176424   --工具能监测�
 http://www.maiziedu.com/article/9126/  --五种优化代码的方法
 http://www.jianshu.com/p/224e2479da18   --点击通知栏跳转页面，若挂了则重新走流程
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1123/2047.html  --weak handler 解决handler泄漏问题
+http://blog.csdn.net/sw950729/article/details/53523920  --自己打造图片加载框架
 # android滑动相关
 http://blog.csdn.net/pi9nc/article/details/39583377  --ViewDragHelper详解 2
 http://blog.csdn.net/tyk0910/article/details/53414299  --容易懂
