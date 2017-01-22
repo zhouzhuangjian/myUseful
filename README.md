@@ -6,6 +6,7 @@ http://www.phpxs.com/post/5067/   --android通用框架大全
 http://www.jianshu.com/p/153d9f31288d  --3D翻转
 
 # Android性能优化之巧用
+http://www.jianshu.com/p/5bd1708aa32b  --仿豌豆荚进入详情界面
 http://blog.csdn.net/u012304076/article/details/54381430  --界面充值效果
 https://my.oschina.net/zhibuji/blog/100580   --webview内存泄漏
 http://www.jianshu.com/p/e99b5e8bd67b  --事件分发机制
@@ -20,6 +21,7 @@ http://www.maiziedu.com/article/9126/  --五种优化代码的方法
 http://www.jianshu.com/p/224e2479da18   --点击通知栏跳转页面，若挂了则重新走流程
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2014/1123/2047.html  --weak handler 解决handler泄漏问题
 http://blog.csdn.net/sw950729/article/details/53523920  --自己打造图片加载框架
+
 # android滑动相关
 http://blog.csdn.net/pi9nc/article/details/39583377  --ViewDragHelper详解 2
 http://blog.csdn.net/tyk0910/article/details/53414299  --容易懂
@@ -54,6 +56,8 @@ http://blog.csdn.net/yaya_soft/article/details/44307847  --仿微信支付宝�
 
 
 # 自定义view
+http://blog.csdn.net/briblue/article/details/53675461  --shader
+http://blog.csdn.net/gdutxiaoxu/article/details/53700020   --view坐标
 http://download.csdn.net/detail/tyk0910/9703524#comment  --别人写的自定义view
 http://www.jianshu.com/p/138b98095778  --教你搞定Android自定义ViewGroup
 https://www.zhihu.com/question/41101031  --知乎大神
@@ -68,7 +72,7 @@ http://www.gcssloop.com/customview/taiji  --20行画太极
 http://blog.csdn.net/recordgrowth/article/details/53342976  --仿ios靠边停的tool
 # 数据库
 http://www.jianshu.com/p/28912c2f31db   --Realm 数据库
-
+http://www.jianshu.com/p/37af717761cc
 # 保存图片到相册
 https://segmentfault.com/q/1010000004384074
 
@@ -115,6 +119,8 @@ http://blog.csdn.net/t12x3456/article/details/13769731/
 http://www.jianshu.com/users/769d3d3a9d4b/latest_articles
 http://blog.csdn.net/u011443509
 http://www.jianshu.com/users/0ef3dc77079c/latest_articles  --键盘男  单元测试
+http://blog.csdn.net/dd864140130    --小白哥
+http://www.jianshu.com/u/030d732a71d2  --伪文艺大叔 
 # 好的demo和例子网址
 http://www.jcodecraeer.com/plus/list.php?tid=31&TotalResult=1046&PageNo=1  
 # rxjava
@@ -122,3 +128,6 @@ http://gank.io/post/560e15be2dca930e00da1083
 http://blog.csdn.net/theone10211024/article/details/50435325
 http://blog.csdn.net/qq_18402085/article/details/50793631
 http://www.jianshu.com/p/cc064e3d5f21   --封装retrofit
+
+# 学习网站
+mooc大学 网易云课堂 扣丁课堂
