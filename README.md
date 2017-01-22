@@ -6,6 +6,8 @@ http://www.phpxs.com/post/5067/   --android通用框架大全
 http://www.jianshu.com/p/153d9f31288d  --3D翻转
 
 # Android性能优化之巧用
+http://blog.csdn.net/u012304076/article/details/54381430  --界面充值效果
+https://my.oschina.net/zhibuji/blog/100580   --webview内存泄漏
 http://www.jianshu.com/p/e99b5e8bd67b  --事件分发机制
 http://www.58maisui.com/2016/10/20/776/  --软引用与弱引用优化内存使用
 http://blog.csdn.net/lmj623565791/article/details/45556391  --过度绘制问题
