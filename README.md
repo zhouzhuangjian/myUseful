@@ -56,6 +56,8 @@ http://blog.csdn.net/yaya_soft/article/details/44307847  --仿微信支付宝�
 
 
 # 自定义view
+http://blog.csdn.net/zxt0601/article/details/53730908  --五行代码实现 炫动滑动 卡片层叠布局，仿探探、人人影视订阅界面 简单&优雅：LayoutManager+ItemTouchHelper
+http://blog.csdn.net/zxt0601/article/details/54018970  --path妙用
 http://blog.csdn.net/briblue/article/details/53675461  --shader
 http://blog.csdn.net/gdutxiaoxu/article/details/53700020   --view坐标
 http://download.csdn.net/detail/tyk0910/9703524#comment  --别人写的自定义view
@@ -73,6 +75,7 @@ http://blog.csdn.net/recordgrowth/article/details/53342976  --仿ios靠边停的
 # 数据库
 http://www.jianshu.com/p/28912c2f31db   --Realm 数据库
 http://www.jianshu.com/p/37af717761cc
+http://blog.csdn.net/qq_30379689/article/details/54410838  --greendao
 # 保存图片到相册
 https://segmentfault.com/q/1010000004384074
 
@@ -111,11 +114,13 @@ http://blog.csdn.net/qq_16131393/article/details/51069325  --android3姐妹
 http://blog.csdn.net/liaoinstan/article/details/51200618   --可拖拽的gridview
 http://blog.csdn.net/tw19911005/article/details/51495199  --绘图机制
 # 视频播放
+http://blog.csdn.net/junzia/article/details/54018671   --音视频编码什么的
 http://blog.csdn.net/anddlecn/article/details/51523240
 http://blog.csdn.net/true100/article/details/53992939  --播放H264视频文件
 # webview
 http://blog.csdn.net/t12x3456/article/details/13769731/
 # 博客主
+http://blog.csdn.net/zxt0601  --zxt
 http://www.jianshu.com/users/769d3d3a9d4b/latest_articles
 http://blog.csdn.net/u011443509
 http://www.jianshu.com/users/0ef3dc77079c/latest_articles  --键盘男  单元测试
@@ -131,3 +136,7 @@ http://www.jianshu.com/p/cc064e3d5f21   --封装retrofit
 
 # 学习网站
 mooc大学 网易云课堂 扣丁课堂
+# android自带
+http://blog.csdn.net/qq_30379689/article/details/54174838  --仿淘宝的广告
+
+http://blog.csdn.net/androidmsky/article/details/54135465  --热更新
