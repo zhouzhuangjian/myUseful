@@ -113,6 +113,7 @@ http://blog.csdn.net/qq_16131393/article/details/51069325  --android3姐妹
 # android ui相关
 http://blog.csdn.net/liaoinstan/article/details/51200618   --可拖拽的gridview
 http://blog.csdn.net/tw19911005/article/details/51495199  --绘图机制
+https://github.com/AndroidMsky/linkScrollMsky   --仿知乎
 # 视频播放
 http://blog.csdn.net/junzia/article/details/54018671   --音视频编码什么的
 http://blog.csdn.net/anddlecn/article/details/51523240
